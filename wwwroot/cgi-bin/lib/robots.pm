@@ -117,7 +117,7 @@
 # 2005-12-15
 #		added FAST Enteprise Crawler/6 (www dot fastsearch dot com). Note spelling Enteprise not Enterprise.
 #		added findlinks http://wortschatz.uni-leipzig.de/findlinks/
-#		added IBM Almaden Research Center WebFountain™ http://www.almaden.ibm.com/cs/crawler [hc3]
+#		added IBM Almaden Research Center WebFountainâ„¢ http://www.almaden.ibm.com/cs/crawler [hc3]
 #		added INFOMINE/8.0 VLCrawler (http://infomine.ucr.edu/useragents)
 #		added lmspider (lmspider@scansoft.com) http://www.nuance.com/
 #		added noxtrumbot http://www.noxtrum.com/
@@ -551,6 +551,7 @@
 'MJ12bot/',
 'MojeekBot/',
 'Mojolicious',
+'monit/',
 'MXT/Nutch',
 'My[\x20]Nutch[\x20]Spider/',
 'myse/Nutch',
@@ -1638,6 +1639,7 @@
 'MJ12bot/','MJ12bot',
 'MojeekBot/','MojeekBot',
 'Mojolicious','Mojolicious',
+'monit/','Monit',
 'MXT/Nutch','MXT/Nutch',
 'My[\x20]Nutch[\x20]Spider/','My Nutch Spider',
 'myse/Nutch','myse/Nutch',
